@@ -18,6 +18,6 @@ Estas son algunas de las herramientas y tecnologías con las que me encanta trab
 
 ## GPonte en contacto
 
-- 📧 [Email](felipe.lleuful@hotmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/felipelleuful)
-- 📲 [Facebook](www.facebook.com/felipe.lleuful)
+- 📧 [Email](mailto:felipe.lleuful@hotmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipelleuful)
+- 📲 [Facebook](https://www.facebook.com/felipe.lleuful)
