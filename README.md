@@ -24,7 +24,6 @@ Estas son algunas de las herramientas y tecnologías con las que me encanta trab
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Expressjs" width="40" height="40"/></a>
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  
 </p>
 
 ## Ponte en contacto:
