@@ -4,7 +4,8 @@ Bienvenidos a mi perfil de Github! Soy un Analista Programador, apasionado a la 
 
 # Acerca de mi:
 
-- 🎓 **Estudio**: Analista Programador.  
+- 🎓 **Estudio**: Ingenería en Informatica.  
+- 🎓 **Egresado**: Analista Programador.  
 - 📍 **Ubicación**: Chile.
 - 🌱 **Aprendizaje Actual**: Express.js, Node.js, PostgreSQL, etc.  
 - 💬 **Pregúntame sobre**: Videojuegos, Js, Música, Cultura de Canada, Futbol.
