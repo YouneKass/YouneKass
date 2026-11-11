@@ -1,6 +1,6 @@
 # Hola mi nombre es Felipe Lleuful 👋
 
-Bienvenidos a mi perfil de Github! Soy un Analista Programador, apasionado a la computación, ademas del desarrollo de software.
+Bienvenidos a mi perfil de Github! Soy un Analista Programador, apasionado a la computación, ademas del desarrollo de software y soporte TI.
 
 # Acerca de mi:
 
